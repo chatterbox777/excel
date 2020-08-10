@@ -46,6 +46,7 @@
     "cross-env": "^7.0.2",
     "css-loader": "^4.2.1",
     "eslint": "^7.6.0",
-    "eslint-loader": "^4.0.2"
+    "eslint-loader": "^4.0.2",
+    "normalize.css": "^8.0.1"
   }
 }
